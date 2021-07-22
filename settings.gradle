@@ -1,0 +1,2 @@
+rootProject.name = "Pentagram_app"
+include ':app'
